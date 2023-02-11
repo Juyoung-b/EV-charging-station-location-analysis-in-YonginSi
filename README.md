@@ -45,8 +45,6 @@ Project is: _complete_ / _no longer being worked on_
 ## Contact
 Created by (summercheriy@gmail.com) - feel free to contact me!
 
-
-
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
